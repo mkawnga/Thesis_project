@@ -8,5 +8,5 @@ Medication recommendations are merely suggestions, and should be researched befo
 The given suggestions are an indication on the role of predictive phenotyping within personalized medicine. 
 
 Code written by Morenika Wijninga
-Life Sciences student at Hanze Hogeschool Groningen
+Life Sciences student at the Hanze Hogeschool Groningen
 January, 2023
