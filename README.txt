@@ -1,3 +1,5 @@
+This tool is designed around the following metabolizer phenotype differentiations: poor metabolizer (PM), intermediate metabolizer (IM), normal metabolizer (NM), rapid metabolizer (RM), ultrarapid metabolizer (UM).
+
 The percentages are based on a project on the phenotypical prediction performed on the genomic data acquired from the participants of the Genetic Risk and Outcome of Psychosis (GROUP) study.
 The study has been conducted by a consortium consisting of four university psychiatric centers and their affiliated mental health care institutions in the Netherlands (University Medical Center Utrecht; University Medical Centre University of Amsterdam; Maastricht University Medical Centre; University Medical Centre Groningen). 
 Thirty-six mental health care institutions participated in the study, covering a total of 75% of the Dutch population (Korver et al., 2012).
