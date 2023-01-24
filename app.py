@@ -1,8 +1,4 @@
 
-print("This tool has been designed by a Life Sciences student from the Hanze Hogeschool Groningen.")
-print("Statistics are based on a phenotyping project performed on genomic data acquired from the participants of the longitudinal study: GROUP.")
-print("For this tool the phenotypes have been divided into; Poor Metabolizer (PM), Intermediate Metabolizer (IM), Normal Metabolizer (NM), Rapid Metabolizer (RM), and Ultrarapid Metabolizer (UM).")
-print(" ")
 print("\033[1;32mPlease enter the metabolizer statusus of your patients phenotypes below.")
 print("\033[1;37m \n")
 CYP2D6 = input("CYP2D6 phenotype (ex. PM, IM, NM, RM, UM): ")
